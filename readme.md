@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito na NLW Setup by [Rocketseat](https://lp.rocketseat.com.br/nlw).
+Projeto desenvolvido na NLW Setup by [Rocketseat](https://lp.rocketseat.com.br/nlw).
